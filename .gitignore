@@ -95,7 +95,7 @@ lint/outputs/
 lint/tmp/
 # lint/reports/
 
-### Android Patch ###
+## Android Patch ##
 gen-external-apklibs
 output.json
 
